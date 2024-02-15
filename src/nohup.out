@@ -1,0 +1,20 @@
+My server Id: 0
+My server Id: 3
+My server Id: 2
+My server Id: 1
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+My server address: localhost:8080
+My server address: localhost:8082
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+My server address: localhost:8081
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+My server address: localhost:8083
+Receive - Starting tcp server on localhost:8080
+Receive - Starting tcp server on localhost:8082
+Receive - Starting tcp server on localhost:8081
+Receive - Starting tcp server on localhost:8083
+2024/02/14 17:57:39 netsort.go:208: open 3: no such file or directory
+2024/02/14 17:57:39 netsort.go:208: open 1: no such file or directory
+2024/02/14 17:57:39 netsort.go:208: open 2: no such file or directory
+2024/02/14 17:57:39 netsort.go:208: open 0: no such file or directory
